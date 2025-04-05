@@ -1,0 +1,46 @@
+discipline,discipline_code
+Archery,ARC
+Athletics,ATH
+Badminton,BDM
+3x3 Basketball,BK3
+Basketball,BKB
+Canoe Sprint,CSP
+Cycling Track,CTR
+Diving,DIV
+Equestrian,EQU
+Football,FBL
+Fencing,FEN
+Artistic Gymnastics,GAR
+Rhythmic Gymnastics,GRY
+Handball,HBL
+Hockey,HOC
+Judo,JUD
+Rowing,ROW
+Rugby Sevens,RU7
+Sailing,SAL
+Shooting,SHO
+Artistic Swimming,SWA
+Swimming,SWM
+Tennis,TEN
+Triathlon,TRI
+Table Tennis,TTE
+Beach Volleyball,VBV
+Volleyball,VVO
+Water Polo,WPO
+Wrestling,WRE
+Weightlifting,WLI
+Canoe Slalom,CNS
+Boxing,BOX
+Modern Pentathlon,MDP
+Taekwondo,TAE
+Surfing,SUR
+Cycling Road,CYC
+Marathon Swimming,MTS
+Sport Climbing,SPC
+Golf,GOL
+Cycling BMX Racing,CYB
+Skateboarding,SKB
+Cycling Mountain Bike,CYM
+Breaking,BRE
+Trampoline Gymnastics,TLG
+Cycling BMX Freestyle,CYF
